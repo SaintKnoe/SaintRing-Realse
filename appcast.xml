@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>SaintRing Updates</title>
+    <link>https://github.com/SaintKnoe/SaintRing-Realse/releases</link>
+    <description>SaintRing signed macOS updates</description>
+    <language>zh-cn</language>
+    <item>
+      <title>SaintRing 0.2.0</title>
+      <pubDate>Wed, 04 Nov 2026 09:18:47 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;SaintRing 更新：圆环窗口切换、键盘窗口操作与玻璃界面。&lt;/p&gt;</description>
+      <enclosure url="https://github.com/SaintKnoe/SaintRing-Realse/releases/download/v0.2.0/SaintRing-0.2.0-arm64.dmg" length="3671246" type="application/octet-stream" sparkle:version="2" sparkle:shortVersionString="0.2.0" sparkle:edSignature="oV1pJTuoq4zwu/2Q+oIk2ywGnOZ772valkhjCNB3PJOZlvglmA4DH5/5u8CoHnkrUfOhRCuoyEHLx74aLbj9CQ==" />
+    </item>
+  </channel>
+</rss>
