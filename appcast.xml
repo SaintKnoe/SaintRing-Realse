@@ -6,6 +6,13 @@
     <description>SaintRing signed macOS updates</description>
     <language>zh-cn</language>
     <item>
+      <title>SaintRing 0.2.14</title>
+      <pubDate>Wed, 11 Nov 2026 06:03:56 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;SaintRing 更新：圆环窗口切换、键盘窗口操作与玻璃界面。&lt;/p&gt;</description>
+      <enclosure url="https://github.com/SaintKnoe/SaintRing-Realse/releases/download/v0.2.14/SaintRing-0.2.14-arm64.dmg" length="3743387" type="application/octet-stream" sparkle:version="16" sparkle:shortVersionString="0.2.14" sparkle:edSignature="VpeLSUDD40ukLd17Y8UZuLz1ADzvMGeksuZrS46plHRZD/KB4fifCuCFJ8jUhnA4lMfUj263+s9In70RVN/KBw==" />
+    </item>
+    <item>
       <title>SaintRing 0.2.13</title>
       <pubDate>Mon, 09 Nov 2026 11:45:53 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
