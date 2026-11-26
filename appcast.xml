@@ -6,6 +6,13 @@
     <description>SaintRing signed macOS updates</description>
     <language>zh-cn</language>
     <item>
+      <title>SaintRing 0.2.20</title>
+      <pubDate>Thu, 26 Nov 2026 04:02:52 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;SaintRing 更新：圆环窗口切换、键盘窗口操作与玻璃界面。&lt;/p&gt;</description>
+      <enclosure url="https://github.com/SaintKnoe/SaintRing-Realse/releases/download/v0.2.20/SaintRing-0.2.20-arm64.dmg" length="3843623" type="application/octet-stream" sparkle:version="22" sparkle:shortVersionString="0.2.20" sparkle:edSignature="zRH0/KkVkl0as0ijv0ihTHS+zqd9ocfv6zPcxZHfOfurkgvQrTuVlBbMh45MzryJ3ZSNZWIevQI5tNS7COOXAg==" />
+    </item>
+    <item>
       <title>SaintRing 0.2.19</title>
       <pubDate>Wed, 11 Nov 2026 08:37:40 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -137,13 +144,6 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description>&lt;p&gt;SaintRing 更新：圆环窗口切换、键盘窗口操作与玻璃界面。&lt;/p&gt;</description>
       <enclosure url="https://github.com/SaintKnoe/SaintRing-Realse/releases/download/v0.2.1/SaintRing-0.2.1-arm64.dmg" length="3699310" type="application/octet-stream" sparkle:version="3" sparkle:shortVersionString="0.2.1" sparkle:edSignature="u7T4Na3/U85XhfYXGj8uF/3ku54Ers0wOoPu+VujNXFIOB/EcTPaa64DzHP2GTNagaeiJ9l0qS6ZxYqmUm2yCA==" />
-    </item>
-    <item>
-      <title>SaintRing 0.2.0</title>
-      <pubDate>Wed, 04 Nov 2026 09:18:47 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;SaintRing 更新：圆环窗口切换、键盘窗口操作与玻璃界面。&lt;/p&gt;</description>
-      <enclosure url="https://github.com/SaintKnoe/SaintRing-Realse/releases/download/v0.2.0/SaintRing-0.2.0-arm64.dmg" length="3671246" type="application/octet-stream" sparkle:version="2" sparkle:shortVersionString="0.2.0" sparkle:edSignature="oV1pJTuoq4zwu/2Q+oIk2ywGnOZ772valkhjCNB3PJOZlvglmA4DH5/5u8CoHnkrUfOhRCuoyEHLx74aLbj9CQ==" />
     </item>
   </channel>
 </rss>
